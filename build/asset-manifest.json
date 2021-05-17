@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/static/js/main.0e2761ef.chunk.js",
+    "main.js.map": "/static/js/main.0e2761ef.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c96f61a9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c96f61a9.js.map",
+    "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
+    "static/js/2.ebd06135.chunk.js": "/static/js/2.ebd06135.chunk.js",
+    "static/js/2.ebd06135.chunk.js.map": "/static/js/2.ebd06135.chunk.js.map",
+    "static/js/3.d2d9ff6a.chunk.js": "/static/js/3.d2d9ff6a.chunk.js",
+    "static/js/3.d2d9ff6a.chunk.js.map": "/static/js/3.d2d9ff6a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
+    "static/js/2.ebd06135.chunk.js.LICENSE.txt": "/static/js/2.ebd06135.chunk.js.LICENSE.txt",
+    "static/media/facebook-icon-blue.ad83798c.svg": "/static/media/facebook-icon-blue.ad83798c.svg",
+    "static/media/icon-sheet-2.024eead1.png": "/static/media/icon-sheet-2.024eead1.png",
+    "static/media/icon-sheet.d3ce26f1.png": "/static/media/icon-sheet.d3ce26f1.png",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c96f61a9.js",
+    "static/css/2.19627560.chunk.css",
+    "static/js/2.ebd06135.chunk.js",
+    "static/js/main.0e2761ef.chunk.js"
+  ]
+}
