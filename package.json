@@ -1,5 +1,6 @@
 {
-  "name": "my-own-instagram",
+  "name": "instagram-clone",
+  "homepage": "https://mvmories.github.io/instagram-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,6 +15,7 @@
     "apollo-link-ws": "^1.0.20",
     "date-fns": "^2.21.3",
     "firebase": "^7.8.2",
+    "gh-pages": "^3.1.0",
     "graphql": "^14.7.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
@@ -34,7 +36,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "now-build": "react-scripts build",
-    "deploy": "npx now --target production"
+    "deploy": "npx now --target production",
+    "gh-deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
