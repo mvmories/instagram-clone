@@ -1,6 +1,5 @@
 {
   "name": "instagram-clone",
-  "homepage": "https://mvmories.github.io/instagram-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

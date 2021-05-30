@@ -64,13 +64,13 @@ export const defaultNotifications = [
 
 export const defaultCurrentUser = {
   id: uuid(),
-  username: "me",
-  name: "myself",
+  username: "mvmories",
+  name: "Miguel Vilhena",
   profile_image:
     "https://cdn.dribbble.com/users/348324/screenshots/4241552/shopier-dribbble-1.png?compress=1&resize=800x600",
-  website: "https://react12.io",
-  email: "me@gmail.com",
-  bio: "This is my bio",
+  website: "https://miguelvilhena.com",
+  email: "mvmories@gmail.com",
+  bio: "This is my bio. Like this project? Check out my portfolio below",
   phone_number: "555-555-5555",
   posts: Array.from({ length: 10 }, () => getDefaultPost()),
   followers: [defaultUser],
